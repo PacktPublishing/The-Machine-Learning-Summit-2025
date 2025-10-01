@@ -1,0 +1,3 @@
+Link 1: https://www.amazon.com/Mathematics-Machine-Learning-calculus-probability/dp/1837027870
+
+Link 2: https://github.com/cosmic-cortex/mathematics-of-machine-learning-book

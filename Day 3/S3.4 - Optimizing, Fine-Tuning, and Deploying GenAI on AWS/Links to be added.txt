@@ -1,0 +1,5 @@
+Link 1: https://www.amazon.com/Natural-Language-Processing-AWS-Services/dp/1801812535
+
+Link 2: https://github.com/aws-samples/generative-ai-on-amazon-sagemaker
+
+Link 3: https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders

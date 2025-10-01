@@ -1,0 +1,9 @@
+Link 1: https://www.quentingallea.com/book
+
+Link 2: https://causalml-book.org/
+
+Link 3: https://medium.com/towards-data-science/how-to-learn-causal-inference-on-your-own-for-free-98503abc0a06
+
+Link 4: https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil/research/methods/ai-machine-learning/short-course
+
+Link 5: https://medium.com/data-science/understanding-causal-trees-920177462149

@@ -1,0 +1,17 @@
+Link 1: https://aws.amazon.com/redshift/
+
+Link 2: https://aws.amazon.com/s3/
+
+Link 3: https://aws.amazon.com/sagemaker/
+
+Link 4: https://www.youtube.com/playlist?list=PLhr1KZpdzukfO6GSXNpOHp5U3rUF5a079
+
+Link 5: https://aws.amazon.com/glue/
+
+Link 6: https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html
+
+Link 7: https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-deployment.html
+
+Link 8: https://openlineage.io/
+
+Link 9: https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html
